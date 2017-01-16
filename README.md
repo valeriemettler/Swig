@@ -1,6 +1,6 @@
 # Project Name
 
-A basics Python Flask multi-tenant app example
+A basic Python Flask multi-tenant app example
 
 ## Installation
 
